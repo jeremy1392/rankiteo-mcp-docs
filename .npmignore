@@ -1,0 +1,7 @@
+src/
+examples/
+.github/
+tsconfig.json
+smithery.yaml
+.gitignore
+.npmignore

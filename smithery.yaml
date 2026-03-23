@@ -1,0 +1,19 @@
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      apiKey:
+        type: string
+        description: "Your Rankiteo API key. Get one free at https://www.rankiteo.com/pricing?plan=api-free"
+    required:
+      - apiKey
+  commandFunction: |-
+    (config) => ({
+      command: 'node',
+      args: ['dist/index.js'],
+      env: {
+        RANKITEO_API_KEY: config.apiKey,
+        RANKITEO_API_URL: 'https://api.rankiteo.com'
+      }
+    })
