@@ -201,6 +201,20 @@ Get the full cyber risk rating using the Rankiteo internal company ID.
 |------|------|----------|-------------|
 | `company_id` | string | Yes | Rankiteo company ID |
 
+## Video Tutorials
+
+See the Rankiteo MCP server in action with these step-by-step guides:
+
+| | Video | Description |
+|---|---|---|
+| ▶️ | [**Rankiteo × n8n MCP**](https://www.youtube.com/watch?v=TZtuKjxGJ24) | Automate cyber risk workflows with n8n and Rankiteo MCP |
+| ▶️ | [**Rankiteo × Cursor MCP**](https://youtu.be/bHxs27bwN0Q) | Query cyber ratings directly from your Cursor IDE |
+| ▶️ | [**Rankiteo × ChatGPT MCP**](https://youtu.be/3IByIOLU3WU) | Use Rankiteo cyber intelligence inside ChatGPT |
+
+[![Rankiteo with n8n](https://img.youtube.com/vi/TZtuKjxGJ24/mqdefault.jpg)](https://www.youtube.com/watch?v=TZtuKjxGJ24)
+[![Rankiteo with Cursor](https://img.youtube.com/vi/bHxs27bwN0Q/mqdefault.jpg)](https://youtu.be/bHxs27bwN0Q)
+[![Rankiteo with ChatGPT](https://img.youtube.com/vi/3IByIOLU3WU/mqdefault.jpg)](https://youtu.be/3IByIOLU3WU)
+
 ## Use Cases
 
 ### Cyber Insurance Underwriting
